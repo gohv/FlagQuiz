@@ -10,7 +10,7 @@ https://github.com/daimajia/AndroidViewAnimations
 
 - Ability to choose regions
 
-The scores that are shown after the quiz is finished are based on the number of tottal guesses you have made during the whole quiz.
+The score that are shown after the quiz is finished are based on the number of tottal guesses you have made during the whole quiz.
 
 ![Alt text](https://github.com/gohv/FlagQuiz/blob/master/Selection_005.jpg?raw=true "Optional Title")
 ![Alt text](https://github.com/gohv/FlagQuiz/blob/master/Selection_006.jpg?raw=true "Optional Title")
